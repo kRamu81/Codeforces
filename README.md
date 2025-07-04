@@ -585,3 +585,139 @@ List of 100 beginner friendly questions on codeforces
 <td><a href="">Code</a></td>
 </tr>
 <tr>
+<td>82</td>
+<td><a href="http://codeforces.com/problemset/problem/304/A" target="_blank">Pythagorean Theorem II</a></td>
+<td>Codeforces</td>
+<td>3</td>
+<td><a href="">Code</a></td>
+</tr>
+<tr>
+<td>83</td>
+<td><a href="http://codeforces.com/problemset/problem/254/A" target="_blank">Cards with Numbers</a></td>
+<td>Codeforces</td>
+<td>3</td>
+<td><a href="">Code</a></td>
+</tr>
+<tr>
+<td>84</td>
+<td><a href="http://codeforces.com/problemset/problem/353/A" target="_blank">Domino</a></td>
+<td>Codeforces</td>
+<td>3</td>
+<td><a href="">Code</a></td>
+</tr>
+<tr>
+<td>85</td>
+<td><a href="http://codeforces.com/problemset/problem/349/A" target="_blank">Cinema Line</a></td>
+<td>Codeforces</td>
+<td>3</td>
+<td><a href="">Code</a></td>
+</tr>
+<tr>
+<td>86</td>
+<td><a href="http://codeforces.com/problemset/problem/166/A" target="_blank">Rank List</a></td>
+<td>Codeforces</td>
+<td>3</td>
+<td><a href="">Code</a></td>
+</tr>
+<tr>
+<td>87</td>
+<td><a href="http://codeforces.com/problemset/problem/189/A" target="_blank">Cut Ribbon</a></td>
+<td>Codeforces</td>
+<td>3</td>
+<td><a href="">Code</a></td>
+</tr>
+<tr>
+<td>88</td>
+<td><a href="http://codeforces.com/problemset/problem/287/A" target="_blank">IQ Test</a></td>
+<td>Codeforces</td>
+<td>3</td>
+<td><a href="">Code</a></td>
+</tr>
+<tr>
+<td>89</td>
+<td><a href="http://codeforces.com/problemset/problem/285/C" target="_blank">Building Permutation</a></td>
+<td>Codeforces</td>
+<td>3</td>
+<td><a href="">Code</a></td>
+</tr>
+<tr>
+<td>90</td>
+<td><a href="http://codeforces.com/problemset/problem/433/B" target="_blank">Kuriyama Mirai's Stones</a></td>
+<td>Codeforces</td>
+<td>3</td>
+<td><a href="">Code</a></td>
+</tr>
+<tr>
+<td>91</td>
+<td><a href="http://codeforces.com/problemset/problem/230/B" target="_blank">T-primes</a></td>
+<td>Codeforces</td>
+<td>3</td>
+<td><a href="">Code</a></td>
+</tr>
+<tr>
+<td>92</td>
+<td><a href="http://codeforces.com/problemset/problem/368/B" target="_blank">Sereja and Suffixes</a></td>
+<td>Codeforces</td>
+<td>3</td>
+<td><a href="">Code</a></td>
+</tr>
+<tr>
+<td>93</td>
+<td><a href="http://codeforces.com/problemset/problem/327/A" target="_blank">Flipping Game</a></td>
+<td>Codeforces</td>
+<td>3</td>
+<td><a href="">Code</a></td>
+</tr>
+<tr>
+<td>94</td>
+<td><a href="http://codeforces.com/problemset/problem/237/A" target="_blank">Free Cash</a></td>
+<td>Codeforces</td>
+<td>3</td>
+<td><a href="">Code</a></td>
+</tr>
+<tr>
+<td>95</td>
+<td><a href="http://codeforces.com/problemset/problem/289/B" target="_blank">Polo the Penguin and Matrix</a></td>
+<td>Codeforces</td>
+<td>4</td>
+<td><a href="">Code</a></td>
+</tr>
+<tr>
+<td>96</td>
+<td><a href="http://codeforces.com/problemset/problem/450/B" target="_blank">Jzzhu and Sequences</a></td>
+<td>Codeforces</td>
+<td>4</td>
+<td><a href="">Code</a></td>
+</tr>
+<tr>
+<td>97</td>
+<td><a href="http://codeforces.com/problemset/problem/462/B" target="_blank">Appleman and Card Game</a></td>
+<td>Codeforces</td>
+<td>4</td>
+<td><a href="">Code</a></td>
+</tr>
+<tr>
+<td>98</td>
+<td><a href="http://codeforces.com/problemset/problem/451/B" target="_blank">Sort the Array</a></td>
+<td>Codeforces</td>
+<td>4</td>
+<td><a href="">Code</a></td>
+</tr>
+<tr>
+<td>99</td>
+<td><a href="http://codeforces.com/problemset/problem/315/A" target="_blank">Sereja and Bottles</a></td>
+<td>Codeforces</td>
+<td>4</td>
+<td><a href="">Code</a></td>
+</tr>
+<tr>
+<td>100</td>
+<td><a href="http://codeforces.com/problemset/problem/260/A" target="_blank">Adding Digits</a></td>
+<td>Codeforces</td>
+<td>4</td>
+<td><a href="">Code</a></td>
+</tr>
+</table>
+  </center>
+  </body>
+</html>
