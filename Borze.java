@@ -17,6 +17,6 @@ public class Borze {
                 i++;
             }
         }
-        System.out.println(ans.toString());
+        System.out.println(ans);
     }
 }
